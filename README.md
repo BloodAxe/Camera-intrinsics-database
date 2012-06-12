@@ -13,3 +13,7 @@ You can help this project by taking a sequence of photos (Ten photos is usually 
 The pattern images can be found under Patterns directory. Just print it on A4 paper and take a series of photos from different angles. Feel free to 
 send them in zip-arhive to ekhvedchenya@gmail.com. Your participation will be noted in contributors list. Also you can ask me for a write-access to repository.
 
+To Do
+==========================
+1) Write a command-shell script to walk across all photo sets and pass them through calibration pipeline (OpenCV backend) and save calibrated database to the YAML files.
+2) Write a command-shell script to generate a intrinsic database in code (C++, ObjectiveC, Java, C#)
