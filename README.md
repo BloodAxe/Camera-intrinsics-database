@@ -15,5 +15,5 @@ send them in zip-arhive to ekhvedchenya@gmail.com. Your participation will be no
 
 To Do
 ==========================
-1) Write a command-shell script to walk across all photo sets and pass them through calibration pipeline (OpenCV backend) and save calibrated database to the YAML files.
-2) Write a command-shell script to generate a intrinsic database in code (C++, ObjectiveC, Java, C#)
+> Write a command-shell script to walk across all photo sets and pass them through calibration pipeline (OpenCV backend) and save calibrated database to the YAML files.
+> Write a command-shell script to generate a intrinsic database in code (C++, ObjectiveC, Java, C#)
