@@ -31,7 +31,7 @@ For front camera of the iPad2 it would be "ipad2-front", for MBA built-in camera
 Under this directory you can find either images for grid calibration pattern or for circles pattern.
 They identified by file prefixes: "grid" and "circles" accordingly.
 
-The file name template: [grid|circles]_XX.[png|jpg|bmp], where XX - is the two-digit counter.
+The file name template: `[grid|circles]_XX.[png|jpg|bmp]`, where XX - is the two-digit counter.
 
 Support
 ==========================
