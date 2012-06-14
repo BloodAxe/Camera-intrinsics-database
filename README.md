@@ -35,4 +35,4 @@ The file name template: [grid|circles]_XX.[png|jpg|bmp], where XX - is the two-d
 
 Support
 ==========================
-Look for help on my web-site [Computer Vision Talks](computer-vision-talks.com/camera-calibration-database/).
+Look for help on my web-site [Computer Vision Talks](http://computer-vision-talks.com/camera-calibration-database/).
