@@ -12,7 +12,7 @@ Contribution
 You can help this project by taking a sequence of photos (Ten photos is usually enough) of one of the calibration patterns with your mobile device.
 The pattern images can be found under Patterns directory. Just print it on A4 paper and take a series of photos from different angles. Feel free to 
 send them in zip-arhive to ekhvedchenya@gmail.com. Your participation will be noted in contributors list. Also you can ask me for a write-access to repository.
-Calibration pattern can be found under Patterns directory of this repo.
+Calibration pattern can be found under [Patterns](https://github.com/BloodAxe/Camera-intrinsics-database/tree/master/Patterns/) directory of this repo.
 
 
 To Do
@@ -32,3 +32,7 @@ Under this directory you can find either images for grid calibration pattern or 
 They identified by file prefixes: "grid" and "circles" accordingly.
 
 The file name template: [grid|circles]_XX.[png|jpg|bmp], where XX - is the two-digit counter.
+
+Support
+==========================
+Look for help on my web-site [Computer Vision Talks](computer-vision-talks.com/camera-calibration-database/).
